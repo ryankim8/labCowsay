@@ -1,7 +1,7 @@
 # lab - pip install and PEP8
 
-![](https://github.com/mikeizbicki/cowsay/workflows/flake8/badge.svg)&nbsp;
-![](https://github.com/mikeizbicki/cowsay/workflows/command_line/badge.svg)&nbsp;
+![](https://github.com/mikeizbicki/lab-cowsay/workflows/flake8/badge.svg)&nbsp;
+![](https://github.com/mikeizbicki/lab-cowsay/workflows/command_line/badge.svg)&nbsp;
 
 ## Part 0: setup
 
