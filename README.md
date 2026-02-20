@@ -45,6 +45,14 @@ $ pip3 install .
 then this will give your terminal the `cowsay` command:
 ```
 $ cowsay 'moo'
+ _____
+| moo |
+ -----
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 And you can use this command from any folder
 ```
