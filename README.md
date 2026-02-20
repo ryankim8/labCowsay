@@ -58,7 +58,7 @@ And you can use this command from any folder
 ```
 $ pwd
 /home/user/proj/lab-cowsay
-$ cd ..
+$ cd .. # always takes you to the "parent" folder; observe how pwd changes
 $ pwd
 /home/user/proj
 $ cowsay moo
@@ -70,7 +70,7 @@ $ cowsay moo
             (__)\       )\/\
                 ||----w |
                 ||     ||
-$ cd -
+$ cd lab-cowsay
 $ pwd
 /home/user/proj/lab-cowsay
 ```
