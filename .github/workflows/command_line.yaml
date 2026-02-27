@@ -22,6 +22,5 @@ jobs:
 
           # the line below fails right now because cowsay has not been installed
           # run `pip3 install .` to install cowsay to fix this problem
-          cowsay 'moo'
           pip3 install .
           cowsay 'moo'
